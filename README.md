@@ -128,3 +128,6 @@ If you use TensorFlow Model Garden in your research, please cite this repository
   year = {2020}
 }
 ```
+
+## Fine-tuning a BERT model
+https://github.com/tensorflow/models/blob/master/docs/nlp/fine_tune_bert.ipynb
